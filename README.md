@@ -166,6 +166,7 @@ which looks like this :
 Everything specified. Width, height and color.
 
 **After :**
+
 ![](https://user-images.githubusercontent.com/24259317/74566056-e41a0d00-4f72-11ea-9803-03554c699130.png "#f4be41")
 
 ## Customization
