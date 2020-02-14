@@ -1,0 +1,27 @@
+{
+	"name": "pepita",
+	"version": "0.0.1",
+	"description": "Automatically generate and add template text and images.",
+	"main": "src/pepita.js",
+	"scripts": {
+		"test": "jest",
+		"compile-master": "browserify src/pepita.js -o dist/master.js",
+		"compile-auto": "browserify src/auto-run.js -o dist/auto-pepita.js",
+		"compile": "npm run-script compile-master && npm run-script compile-auto"
+	},
+	"jest": {
+		"testRegex": "./test/.*.js$",
+		"rootDir": "."
+	},
+	"author": "Marlon Schlosshauer",
+	"license": "MIT",
+	"dependencies": {
+		"jquery": "^3.4.1",
+		"lorem-ipsum": "^2.0.1"
+	},
+	"devDependencies": {
+		"browserify": "^16.2.3",
+		"jest": "^24.7.1",
+		"watchify": "^3.11.1"
+	}
+}
