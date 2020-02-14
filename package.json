@@ -1,7 +1,7 @@
 {
 	"name": "pepita",
-	"version": "0.0.1",
-	"description": "Automatically generate and add template text and images.",
+	"version": "1.0.0",
+	"description": "Automatically generate and add template text and images to a HTML file",
 	"main": "src/pepita.js",
 	"scripts": {
 		"test": "jest",
@@ -23,5 +23,22 @@
 		"browserify": "^16.2.3",
 		"jest": "^24.7.1",
 		"watchify": "^3.11.1"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/marlonschlosshauer/pepita.git"
+	},
+	"keywords": [
+		"text",
+		"generating",
+		"image",
+		"generating",
+		"prototyping",
+		"pattern",
+		"generating"
+	],
+	"bugs": {
+		"url": "https://github.com/marlonschlosshauer/pepita/issues"
+	},
+	"homepage": "https://github.com/marlonschlosshauer/pepita#readme"
 }
