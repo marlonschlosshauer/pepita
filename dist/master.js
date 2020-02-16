@@ -11449,7 +11449,7 @@ exports.parse = function (element) {
  * @param {[]} options Options for LoremIpsum
  * @return {String}
  */
-exports.generateText = function(type, length, options) {
+exports.generateText = function(type, length=pepitaDefaultWordLength, options) {
 	switch(type) {
 		case "words":
 			return new Ipsum(options).generateWords(parseInt(length, 10));

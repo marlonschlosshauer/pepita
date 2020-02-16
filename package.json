@@ -1,6 +1,6 @@
 {
 	"name": "pepita",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Automatically generate and add template text and images to a HTML file",
 	"main": "src/pepita.js",
 	"scripts": {
