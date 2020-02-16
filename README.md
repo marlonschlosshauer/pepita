@@ -87,7 +87,7 @@ No length is specified here, so default of 16 is used.
 
 **After :**
 ``` html
-<p class="pepita-text-16">
+<p class="pepita-text">
    cupidatat enim ex nostrud amet fugiat do ad in elit adipisicing consequat anim nisi veniam nisi
 </p>
 ```
@@ -125,7 +125,7 @@ Length of 8 specified. Generates 8 words.
 
 **After :**
 ``` html
-<p class="pepita-paragraphs-1">
+<p class="pepita-text-paragraphs-1">
    Cillum quis officia nostrud tempor eiusmod nulla labore qui occaecat. Officia mollit quis excepteur velit magna qui officia cupidatat duis. Nisi anim pariatur exercitation quis aute. Nisi nostrud ea magna nostrud ea labore irure sint sint nostrud voluptate qui. Aliqua quis id anim sunt commodo. Officia incididunt do nulla ullamco laborum ex voluptate eu excepteur aliqua. Minim Lorem qui nisi officia esse adipisicing laborum cupidatat occaecat dolor mollit sit veniam aliqua.
 </p>
 ```
