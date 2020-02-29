@@ -195,5 +195,8 @@ If you happen to make changes to `src/pepita.js` directly, remember to later com
 ## Thanks
 Special thanks to the contributors of the [lorem-ipsum](https://www.npmjs.com/package/lorem-ipsum) package.
 
+## pepita-remover
+You can use [pepita-remover](https://github.com/marlonschlosshauer/pepita-remover) to remove the dummy classes from your html file(s).
+
 ## Contributing
 [Feedback](../../issues) (especially regarding useability and workflow) is hightly encouraged.
